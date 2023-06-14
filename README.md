@@ -2,7 +2,7 @@
   <h2> 💻 developer full stack👩‍💻</h2>
 <img src="./full stack developer.png" alt="" />
 
-<h1>Sobre mi</h1>
+<h2>Sobre mi</h2>
 <h2>Hola, soy Matías Velázquez, tengo 23 años y soy de Salta, Argentina. Desde muy joven, descubrí mi pasión por la tecnología y me sentí intrigado por comprender cómo funcionan las cosas. Esta curiosidad me llevó a adentrarme en el mundo de la programación.
 Como entusiasta de la tecnología, estoy emocionado por explorar las posibilidades infinitas que ofrece el campo de la programación. A medida que aprendo nuevos lenguajes de programación y adquiero habilidades técnicas, me siento motivado para aplicarlas en proyectos personales y desafiantes.
 Con cada línea de código que escribo, siento cómo mi comprensión y experiencia se fortalecen. A pesar de los desafíos que pueda encontrar en este camino, estoy determinado a perseverar y convertirme en un programador hábil y creativo. 
