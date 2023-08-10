@@ -12,5 +12,5 @@ Con cada línea de código que escribo, siento cómo mi comprensión y experienc
 
 <h2>mi contacto:</h2>
 <p>📩Linkedin: https://www.linkedin.com/in/matias-nahuel-velazquez-615310254/</p>
-<p>📩Correo: matiassvelazquez@gmail.com</p>
+<p>📩Mail: matiassvelazquez@gmail.com</p>
 
